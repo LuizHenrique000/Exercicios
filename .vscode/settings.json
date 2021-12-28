@@ -1,7 +1,8 @@
 {
-    "java.project.sourcePaths": [
-        "Exercicios3",
-        "Exercicios1",
-        "Exercicios2"
-    ]
+  "java.project.sourcePaths": [
+    "Exercicios3",
+    "Exercicios1",
+    "Exercicios2",
+    "EstruturaRepetição"
+  ]
 }
