@@ -9,7 +9,6 @@ public class Exercicio2 {
         int i = 0;
         for (i = 0; i <= numero; i++) {
             soma = soma + i;
-            System.out.println(soma);
             in.close();
         }
         if (soma == 0) {

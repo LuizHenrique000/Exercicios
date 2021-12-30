@@ -17,6 +17,7 @@ d. Seu valor ao dobro
 e. Sua metade
 
 3. Faça um algoritmo que mostre todos os múltiplos de 3 entre 1 e 50.
+
 4. Foi feita uma pesquisa entre com 300 habitantes de uma região. Foram coletados os
    dados de idade, sexo (M/F) e salário. Faça um programa que calcule e mostre:
 
@@ -31,9 +32,7 @@ c. A quantidade de mulheres com salário até R$ 200,00;
 a. a maior e a menor altura encontradas;
 b. a média de altura das mulheres;
 c. a média de altura da população;
-d. o percentual de homens na população. 6. Escreva um algoritmo que leia 20 valores e ao final exiba:
-a. a soma dos números positivos;
-b. a quantidade de valores negativos.
+d. o percentual de homens na população.
 
 6. Escreva um algoritmo que leia 20 valores e ao final exiba:
    a. a soma dos números positivos;
